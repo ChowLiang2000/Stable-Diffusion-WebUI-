@@ -1,6 +1,8 @@
 # Stable-Diffusion-WebUI-
 秋叶一键包 使用教程
 
+推荐英伟达GPU,但实测其他显卡也能出图
+
 https://pan.quark.cn/s/2c832199b09b 作者：秋葉aaaki 
 
 
