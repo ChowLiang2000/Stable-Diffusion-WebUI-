@@ -20,3 +20,7 @@ A绘世启动器.exe启动即可
 
 
 下载的大模型放到models/Stable-diffusion/目录下
+
+
+## AnimateDiff 动画插件使用教程
+https://github.com/ChowLiang2000/Stable-Diffusion-WebUI-/edit/main/AnimateDiff.md
