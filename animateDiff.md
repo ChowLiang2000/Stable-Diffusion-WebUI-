@@ -54,6 +54,7 @@ AnimateDiff官方仓库：https://huggingface.co/guoyww/animatediff/tree/main
  
  教程推荐在设置中补齐提示词，这个作用是什么？
 
- 
+ ### 参考：
+ https://www.bilibili.com/video/BV1zS421A7PG Nenly同学
  
 
