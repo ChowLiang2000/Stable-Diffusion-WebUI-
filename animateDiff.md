@@ -49,10 +49,21 @@ AnimateDiff官方仓库：https://huggingface.co/guoyww/animatediff/tree/main
 
 * 部分反向提示词会导致报错，报错显示 Assertion '-sizes[i]<= index && index < sizes[i] && "index out of bounds"'failed. 清空反向提示词则正常
 
- * 秋叶包aki-4.6.1(绘世2.7)出现只能绘制512x512的问题，尺寸改成512x768就报错'index out of bounds'failed，下载最新的aki-4.7(绘世2.8.2)版本，没有此问题。
+
 ### 待解决
- 
- 教程推荐在设置中补齐提示词，这个作用是什么？
+
+ * aki-4.6+2024.2.9版本animateDiff:
+    出现只能绘制512x512的问题，尺寸改成512x768就报错'index out of bounds'failed
+   
+    文生图不能添加视频参考，controlNet报错
+   
+    图生图可以用controlNet（512x512）
+   
+ * aki-4.7+3月新版本animateDiff 文生图可以生成768高的视频，用controlNet的openpose没问题
+    
+    图生图用controlNet会报错
+   
+ * 教程推荐在设置中补齐提示词，这个作用是什么？
 
  ### 参考：
  https://www.bilibili.com/video/BV1zS421A7PG Nenly同学
