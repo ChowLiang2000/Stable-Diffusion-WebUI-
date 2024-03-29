@@ -1,6 +1,6 @@
 ## AnimateDiff使用教程（记录）
 2024.3.28
-秋叶包SD-WEBUI aki-4.6.1 / aki-4.7
+秋叶包SD-WEBUI 1.8内核 aki-4.6.1 / aki-4.7 
 ### 安装插件
 * SD WebUI扩展列表搜索AnimateDiff 
 
