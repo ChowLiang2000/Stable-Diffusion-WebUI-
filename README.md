@@ -23,4 +23,4 @@ A绘世启动器.exe启动即可
 
 
 ## AnimateDiff 动画插件使用教程
-https://github.com/ChowLiang2000/Stable-Diffusion-WebUI-/edit/main/animateDiff.md
+https://github.com/ChowLiang2000/AnimateDiff-
