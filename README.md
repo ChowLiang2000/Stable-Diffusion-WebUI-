@@ -66,5 +66,5 @@ https://pan.quark.cn/s/2c832199b09b 作者：秋葉aaaki
 
 [controlNet](controlNet.md)
 
-#### AnimateDiff 动画插件使用教程:
+## AnimateDiff 动画插件使用教程
 https://github.com/ChowLiang2000/AnimateDiff-
